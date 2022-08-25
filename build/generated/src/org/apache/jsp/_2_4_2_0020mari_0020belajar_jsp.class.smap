@@ -1,0 +1,30 @@
+SMAP
+_2_4_2_0020mari_0020belajar_jsp.java
+JSP
+*S JSP
+*F
++ 0 2.4.2 mari belajar.jsp
+2.4.2 mari belajar.jsp
++ 1 Navbar.jsp
+Asset/Navbar.jsp
++ 2 Header.jsp
+Asset/Header.jsp
++ 3 Footer.jsp
+Asset/Footer.jsp
+*L
+1,35:55
+5#1,293:90
+35#0,9:382
+5#2,26:391
+30,4:417
+33:420,2
+36,8:424
+43,58:432
+101:490,3
+102,35:493
+137,6:529
+142,3:535
+43#0,28:537
+5#3,16:565
+70#0,54:580
+*E
